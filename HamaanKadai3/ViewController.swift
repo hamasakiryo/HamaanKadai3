@@ -12,8 +12,8 @@ class ViewController: UIViewController {
     @IBOutlet weak private var rightTextField: UITextField!
     @IBOutlet weak private var leftTextField: UITextField!
 
-    @IBOutlet weak var rightSwitch: UISwitch!
-    @IBOutlet weak var leftSwitch: UISwitch!
+    @IBOutlet weak private var rightSwitch: UISwitch!
+    @IBOutlet weak private var leftSwitch: UISwitch!
     
     @IBOutlet weak private var rightLabel: UILabel!
     @IBOutlet weak private var leftLabel: UILabel!
